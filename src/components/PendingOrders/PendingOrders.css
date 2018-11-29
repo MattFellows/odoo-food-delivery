@@ -1,0 +1,10 @@
+.pendingOrdersContainer {
+    display: flex;
+}
+
+.pendingOrder {
+    flex: 1;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 10px;
+}

@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bluebird": "^3.5.3",
+    "moment": "^2.22.2",
     "react": "^16.6.3",
+    "react-confirm-alert": "^2.0.6",
     "react-dom": "^16.6.3",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1"
   },
   "scripts": {
@@ -16,6 +20,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "proxy": "http://localhost:3010",
   "browserslist": [
     ">0.2%",
     "not dead",
