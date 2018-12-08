@@ -49,3 +49,12 @@
     transform: rotate(360deg);
   }
 }
+
+h1 object {
+  width: 40px;
+  height: 40px;
+}
+
+.invisible {
+  visibility: hidden;
+}

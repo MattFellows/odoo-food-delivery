@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5448e2f3-88ca-4a6d-aaee-f7a164857453" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,18 +45,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="299" />
+          <entry key="css" value="363" />
           <entry key="html" value="1" />
-          <entry key="js" value="6162" />
+          <entry key="js" value="6186" />
           <entry key="json" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="299" />
+          <entry key="CSS" value="363" />
           <entry key="HTML" value="1" />
           <entry key="JSON" value="55" />
-          <entry key="JavaScript" value="6162" />
+          <entry key="JavaScript" value="6186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -80,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+            <state relative-caret-position="596">
+              <caret line="57" column="10" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -104,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="39" column="93" selection-start-line="39" selection-start-column="93" selection-end-line="39" selection-end-column="93" />
+            <state relative-caret-position="276">
+              <caret line="28" column="99" selection-start-line="28" selection-start-column="99" selection-end-line="28" selection-end-column="99" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -128,11 +131,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="201">
+              <caret line="28" column="91" selection-start-line="28" selection-start-column="91" selection-end-line="28" selection-end-column="91" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -143,8 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="450">
+              <caret line="30" column="90" selection-start-line="30" selection-start-column="90" selection-end-line="30" selection-end-column="90" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -210,13 +213,13 @@
         <option value="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.css" />
         <option value="$PROJECT_DIR$/src/components/NavLink/NavLink.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/Loading/Loading.css" />
         <option value="$PROJECT_DIR$/src/components/Loading/Loading.js" />
-        <option value="$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js" />
-        <option value="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js" />
         <option value="$PROJECT_DIR$/src/components/OrderComponent/OrderComponent.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js" />
         <option value="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js" />
+        <option value="$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js" />
       </list>
     </option>
   </component>
@@ -352,12 +355,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543398378496</updated>
       <workItem from="1543398382571" duration="22453000" />
-      <workItem from="1543765970463" duration="7049000" />
+      <workItem from="1543765970463" duration="7358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29502000" />
+    <option name="totallyTimeSpent" value="29811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="837" extended-state="0" />
@@ -482,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PrintOrder/PrintOrder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -520,26 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/OrderComponent/OrderComponent.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -550,10 +526,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="90" selection-start-line="30" selection-start-column="90" selection-end-line="30" selection-end-column="90" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="39" column="93" selection-start-line="39" selection-start-column="93" selection-end-line="39" selection-end-column="93" />
+        <state relative-caret-position="276">
+          <caret line="28" column="99" selection-start-line="28" selection-start-column="99" selection-end-line="28" selection-end-column="99" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="28" column="91" selection-start-line="28" selection-start-column="91" selection-end-line="28" selection-end-column="91" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

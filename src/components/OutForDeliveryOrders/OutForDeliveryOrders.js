@@ -26,7 +26,7 @@ class OutForDeliveryOrders extends OrderComponent {
     render() {
         return (
             <div>
-                <h1>Out For Delivery Orders {this.state.loading ? <object data={'/Double Ring-1s-40px.svg'}/> : ''}</h1>
+                <h1>Out For Delivery Orders <object className={this.state.loading ? '' : 'invisible'} data={'/Double Ring-1s-40px.svg'}/></h1>
                 <div className="outForDeliveryOrdersContainer">
                     {this.state.orders.orders.map((o) => {
                         console.log('orderLines', o.orderLines);

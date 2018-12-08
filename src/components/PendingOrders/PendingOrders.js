@@ -28,7 +28,7 @@ class PendingOrders extends OrderComponent {
     render() {
         return (
             <div>
-                <h1>Pending Orders {this.state.loading ? <object data={'/Double Ring-1s-40px.svg'}/> : ''}</h1>
+                <h1>Pending Orders <object className={this.state.loading ? '' : 'invisible'} data={'/Double Ring-1s-40px.svg'}/></h1>
                 <div className="pendingOrdersContainer">
                     {this.state.orders.orders.map((o) => {
                         return (<div key={o.id} className={"pendingOrder"} data-order-id={o.id} onClick={this.acceptOrder}>
