@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5448e2f3-88ca-4a6d-aaee-f7a164857453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/__script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavLink/NavLink.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OrderComponent/OrderComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PrintOrder/PrintOrder.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PrintOrder/PrintOrder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/odoo-food-delivery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/odoo-food-delivery.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shrinkwrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/shrinkwrap.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -62,7 +44,7 @@
         <counts>
           <entry key="css" value="299" />
           <entry key="html" value="1" />
-          <entry key="js" value="6157" />
+          <entry key="js" value="6162" />
           <entry key="json" value="55" />
         </counts>
       </usages-collector>
@@ -71,7 +53,7 @@
           <entry key="CSS" value="299" />
           <entry key="HTML" value="1" />
           <entry key="JSON" value="55" />
-          <entry key="JavaScript" value="6157" />
+          <entry key="JavaScript" value="6162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -122,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="449">
+              <caret line="39" column="93" selection-start-line="39" selection-start-column="93" selection-end-line="39" selection-end-column="93" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -134,10 +116,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/OrderComponent/OrderComponent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
+            <state relative-caret-position="266">
               <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -233,8 +215,8 @@
         <option value="$PROJECT_DIR$/src/components/Loading/Loading.js" />
         <option value="$PROJECT_DIR$/src/components/AcceptedOrders/AcceptedOrders.js" />
         <option value="$PROJECT_DIR$/src/components/PendingOrders/PendingOrders.js" />
-        <option value="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js" />
         <option value="$PROJECT_DIR$/src/components/OrderComponent/OrderComponent.js" />
+        <option value="$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js" />
       </list>
     </option>
   </component>
@@ -370,12 +352,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543398378496</updated>
       <workItem from="1543398382571" duration="22453000" />
-      <workItem from="1543765970463" duration="5872000" />
+      <workItem from="1543765970463" duration="7049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28325000" />
+    <option name="totallyTimeSpent" value="29502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="837" extended-state="0" />
@@ -558,20 +540,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js">
+    <entry file="file://$PROJECT_DIR$/src/components/OrderComponent/OrderComponent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="266">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/OrderComponent/OrderComponent.js">
+    <entry file="file://$PROJECT_DIR$/src/components/OutForDeliveryOrders/OutForDeliveryOrders.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        <state relative-caret-position="449">
+          <caret line="39" column="93" selection-start-line="39" selection-start-column="93" selection-end-line="39" selection-end-column="93" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
